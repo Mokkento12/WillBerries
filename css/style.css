@@ -276,3 +276,17 @@ body {
 .footer-line {
   opacity: 0.5;
 }
+
+.top-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.top-link-text {
+  margin-right: 15px;
+}
+
+.payment-logo {
+  vertical-align: middle;
+  margin-right: 25px;
+}
